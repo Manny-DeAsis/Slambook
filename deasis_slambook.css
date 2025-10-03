@@ -1,0 +1,25 @@
+body {
+    background-color: #9cf1ea;
+    font-family: serif;
+}
+H1 {
+    text-align: center;
+}
+.box {
+    width: 250px;
+    padding: 30px;
+    background-color: #8eb4ec;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 785px;
+}
+.comments {
+    width: 250px;
+    padding: 30px;
+    background-color: #8eb4ec;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 785px;
+}
